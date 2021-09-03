@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace blugin\template;
+namespace authorname\pluginname;
 
 use pocketmine\plugin\PluginBase;
 
