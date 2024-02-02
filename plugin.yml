@@ -2,7 +2,7 @@
 name: PluginName
 main: authorname\pluginname\Loader
 version: 0.1.0
-api: [ 4.0.0 ]
+api: [ 5.0.0 ]
 author: AuthorName
 description: Description of Plugin
 ...
