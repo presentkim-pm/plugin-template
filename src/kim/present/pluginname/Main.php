@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace authorname\pluginname;
+namespace kim\present\pluginname;
 
 use pocketmine\plugin\PluginBase;
 

@@ -1,8 +1,8 @@
 ---
 name: PluginName
-main: authorname\pluginname\Main
+main: kim\present\pluginname\Main
 version: 0.1.0
 api: [ 5.0.0 ]
-author: AuthorName
+author: PresentKim
 description: Description of Plugin
 ...
