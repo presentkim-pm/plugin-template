@@ -5,7 +5,7 @@ namespace authorname\pluginname;
 
 use pocketmine\plugin\PluginBase;
 
-final class Loader extends PluginBase{
+final class Main extends PluginBase{
     protected function onLoad() : void{
         $this->getLogger()->info("Template plugin loaded!");
     }

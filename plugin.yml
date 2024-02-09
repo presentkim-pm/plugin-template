@@ -1,6 +1,6 @@
 ---
 name: PluginName
-main: authorname\pluginname\Loader
+main: authorname\pluginname\Main
 version: 0.1.0
 api: [ 5.0.0 ]
 author: AuthorName
